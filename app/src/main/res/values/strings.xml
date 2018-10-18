@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chat Fácil</string>
+    <string name="novo_contato">Novo Contato</string>
+    <string name="cadatra_contato">Cadastra Contato</string>
+    <string name="sair">Sair</string>
+    <string name="selecione_seu_perfil_para_entrar">Selecione seu perfil para entrar.</string>
+    <string name="enviar">Enviar</string>
+    <string name="digite_mensagem">Digite sua mensagem</string>
+    <string name="entrar">Entrar</string>
+    <string name="recebendo_mensagens">Recebendo Mensagens</string>
+</resources>
